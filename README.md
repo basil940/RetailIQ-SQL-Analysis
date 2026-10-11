@@ -98,4 +98,4 @@ would actually ask.
 ## Author
 **Basil** — Aspiring Data Analyst  
 📍 Kochi, Kerala  
-🔗 [LinkedIn](www.linkedin.com/in/basil-paul94) | [GitHub](https://github.com/basil940)
+🔗 [LinkedIn](https://www.linkedin.com/in/basil-paul94) | [GitHub](https://github.com/basil940)
