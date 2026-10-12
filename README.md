@@ -65,6 +65,21 @@ would actually ask.
 - Top 28.8% of orders (High Value) contributed 60.9% 
   of total revenue — Pareto principle confirmed
 
+## Screenshots
+
+### Q2 — Sales & Profit by Region
+![Q2](screenshots/q2_region_sales.png)
+
+### Q7 — Top Category per Region
+![Q7](screenshots/q7_top_category.png)
+
+### Q16 — Discount Impact Analysis
+![Q16](screenshots/q16_discount_impact.png)
+
+### Q20 — Regional Profitability Scorecard
+![Q20](screenshots/q20_scorecard.png)
+  
+
 ## SQL Concepts Used
 | Concept | Query |
 |---|---|
